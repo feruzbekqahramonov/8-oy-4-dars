@@ -72,3 +72,22 @@
   padding: 17px 20px;
   cursor: pointer;
 }
+
+.music {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 24px;
+  margin-top: 25px;
+}
+
+.playingBtn {
+  background: transparent;
+  border: none;
+}
+
+.playing {
+  font-size: 24px;
+  background-color: transparent;
+  cursor: pointer;
+}
