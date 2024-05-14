@@ -1,0 +1,74 @@
+.main {
+  width: 777px;
+  margin: 50px auto;
+  justify-content: center;
+}
+
+.PomodoroTitle {
+  text-align: center;
+  margin-bottom: 100px;
+  font-weight: bold;
+}
+
+.box {
+  width: 77%;
+  margin: 0 auto;
+}
+
+.tabs_wrapper {
+  background: #fff;
+  color: rgb(0, 89, 255);
+  font-weight: 900;
+}
+
+.tabs1 {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.tabs1:hover {
+  background:rgb(241, 245, 252);
+}
+
+.tabs2 {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.tabs2:hover {
+  background:rgb(241, 245, 252);
+}
+
+.Button {
+  background: blue;
+  color: #fff;
+  border: none;
+  width: 100%;
+  border-radius: 100px;
+  font-size: 29px;
+  padding: 17px 20px;
+  cursor: pointer;
+}
+
+.Buttonnn {
+  background: rgb(255, 38, 0);
+  color: #fff;
+  border: none;
+  width: 100%;
+  border-radius: 100px;
+  font-size: 29px;
+  padding: 17px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.Buttonv {
+  background: blue;
+  color: #fff;
+  border: none;
+  width: 100%;
+  border-radius: 100px;
+  font-size: 29px;
+  padding: 17px 20px;
+  cursor: pointer;
+}
